@@ -139,5 +139,5 @@ body {
   display: grid;
   place-items: center; /* Center both horizontally and vertically */
   width: 250px;
-  margin-left: 60px;
+  margin-left: 100px;
 }
