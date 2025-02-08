@@ -3,8 +3,8 @@
   /* duration */
   display: grid;
   place-items: center; /* Center both horizontally and vertically */
-  width: 300px;
-  margin-left: 300px;
+  width: 270px;
+  margin-left: 270px;
 }
 
 .gallery > img {
@@ -139,5 +139,5 @@ body {
   display: grid;
   place-items: center; /* Center both horizontally and vertically */
   width: 150px;
-  margin-left: 100px;
+  margin-left: 80px;
 }
